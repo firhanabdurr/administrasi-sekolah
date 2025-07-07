@@ -15,15 +15,12 @@ Aplikasi ini adalah sistem informasi berbasis web yang dirancang untuk membantu 
 
 ### **2. Prasyarat (Prerequisites)**
 
-Pastikan perangkat Anda telah terinstal perangkat lunak berikut sebelum memulai:
-
 * **Node.js**: Versi 16.x atau yang lebih baru.
     * *Anda bisa memeriksanya dengan menjalankan `node -v` di terminal.*
 * **npm** atau **yarn**: Manajer paket untuk Node.js (npm biasanya sudah terinstal bersama Node.js).
     * *Anda bisa memeriksanya dengan `npm -v` atau `yarn -v`.*
-* **MongoDB**: Database NoSQL yang akan kita gunakan. Anda bisa menginstal MongoDB Community Server di mesin lokal Anda atau menggunakan layanan cloud seperti MongoDB Atlas.
-    * *Pastikan layanan MongoDB sudah berjalan sebelum menjalankan backend.*
-* **Git**: Untuk meng-clone repositori (jika kode disimpan di Git).
+* **MongoDB**: Database NoSQL yang akan digunakan. Anda bisa menginstal MongoDB Community Server di mesin lokal Anda atau menggunakan layanan cloud seperti MongoDB Atlas.
+    * *Pastikan layanan MongoDB sudah berjalan sebelum menjalankan backend.*    
 
 ---
 
@@ -128,7 +125,3 @@ Proses instalasi dibagi menjadi dua bagian utama: **Backend** dan **Frontend**.
     Setelah login, Anda dapat mulai menggunakan semua fitur seperti manajemen siswa, transaksi keuangan, dan pembuatan laporan sesuai dengan menu navigasi yang tersedia.
 
 ---
-
-### **5. Struktur Proyek**
-
-Untuk pemahaman mendalam mengenai organisasi file dan folder, silakan merujuk pada dokumen **Struktur Folder Aplikasi Administrasi Sekolah** yang telah disediakan.
