@@ -109,7 +109,7 @@ const generateFinancialReport = async (req, res) => {
   }
 };
 
-// Di sini Anda bisa menambahkan fungsi lain seperti generateSppReport
+// Di sini bisa menambahkan fungsi lain seperti generateSppReport
 // const generateSppReport = async (req, res) => { ... };
 
 module.exports = {
